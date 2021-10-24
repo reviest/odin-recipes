@@ -2,3 +2,18 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: gold;
 }
+
+h3 {
+    text-align: center;
+    background-color: red;
+}
+
+ul li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 22px;
+}
+
+#main li {
+    font-size: 45px;
+}
